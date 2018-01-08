@@ -2,7 +2,7 @@
 
 Reviewed unstructured data to understand the patterns and natural categories that the data fits into. Used multiple algorithms and both empirically and theoretically compared and contrasted their results. Made predictions about the natural categories of multiple types in a dataset, then checked these predictions against the result of unsupervised analysis.
 
-See my implementation and report [here](LINK).
+See my implementation and report [here](https://github.com/robertyoung2/Creating-Customer-Segments/blob/master/customer_segments.ipynb).
 
 ## Project Brief
 
@@ -10,7 +10,7 @@ A wholesale distributor recently tested a change to their delivery method for so
 
 ## Project Evaluation
 
-My project was evaluated against the [Creating Customer Segments project rubric](LINK). 
+My project was evaluated against the [Creating Customer Segments project rubric](https://github.com/robertyoung2/Creating-Customer-Segments/blob/master/Creating%20Customer%20Segments%20project%20rubric.pdf). 
 
 ## Files Submitted 
 
